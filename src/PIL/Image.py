@@ -1321,7 +1321,7 @@ class Image:
 
     def getxmp(self):
         """
-        Returns an object containing the xmp tags for a given image.
+        Returns an object containing the xmp tags for given image.
         :returns: XMP tags in an object.
         """
 
